@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <h1>
-        これはSPAのサンプル。s3にホスティング
+        これはSPAのサンプル。s3にホスティング Learn React
         </h1>
         {/* <p>
           Edit <code>src/App.tsx</code> and save to reload.
